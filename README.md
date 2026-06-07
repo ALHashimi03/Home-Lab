@@ -267,7 +267,7 @@ iPhone / Laptop (anywhere in the world)
 - ✅ Reverse proxy with virtual host routing
 - ✅ VPN mesh networking (Tailscale/WireGuard)
 - ✅ Dynamic DNS and domain management
-- ✅ Port forwarding and NAT configuration
+- ✅ Internal network routing and DNS management
 
 ### Security
 - ✅ Defense-in-depth security architecture
