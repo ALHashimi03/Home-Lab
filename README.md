@@ -2,7 +2,7 @@
 
 # 🏠 Personal HomeLab Infrastructure Project
 
-<img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OS-Windows%2010-0078D6?style=for-the-badge&logo=windows" />
 <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/CrowdSec-Protected-FF6B35?style=for-the-badge" />
