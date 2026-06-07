@@ -247,8 +247,8 @@ iPhone / Laptop (anywhere in the world)
 | **Remote DNS** | AdGuard pushed via Tailscale to all devices |
 | **Local URLs** | `http://service.home` via NPMplus on LAN |
 | **Remote URLs** | `http://service.ts` via NPMplus over Tailscale |
-| **DDNS** | Namecheap Dynamic DNS Client (`mcbec.world`) |
-| **Docker Gateway** | `192.168.65.254` for container→host communication |
+| **DDNS** | Namecheap Dynamic DNS Client (`example.com`) |
+| **Docker Gateway** | Docker bridge networking for container→host communication |
 
 ---
 
