@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/CrowdSec-Protected-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tailscale-VPN-0099FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Uptime-Monitored-success?style=for-the-badge" />
 
 **A fully self-hosted, production-grade home server featuring automated media management, multi-layer security, zero-trust remote access, and comprehensive monitoring — built and maintained entirely from scratch.**
 
