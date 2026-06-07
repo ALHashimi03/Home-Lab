@@ -319,7 +319,6 @@ C:\docker\
 ├── nginx-proxy-manager\ # NPMplus reverse proxy
 │   └── data\
 ├── portainer\        # Container management
-├── uptime-kuma\      # Monitoring
 └── uptime-kuma\      # Uptime monitoring
 
 C:\Docker\
