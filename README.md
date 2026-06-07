@@ -114,7 +114,7 @@ This project documents the design, deployment, and ongoing maintenance of a pers
 | **AdGuard Home** | DNS-level ad/malware blocking (853k+ rules) |
 | **CrowdSec** | Behavioral intrusion detection & IP banning |
 | **Tailscale** | Zero-trust WireGuard-based VPN mesh |
-| **Namecheap DDNS** | Dynamic DNS for public domain `mcbec.world` |
+| **Namecheap DDNS** | Dynamic DNS for public domain `example.com` |
 
 ### Monitoring & Alerting
 
